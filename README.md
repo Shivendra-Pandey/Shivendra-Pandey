@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- I am a second year undergraduate at IIT BHU pursuing Btech. in Electrical Engineering.
+- I am a fourth year undergraduate at IIT BHU pursuing Btech. in Electrical Engineering.
 - I have keen interest in Web development and Competitive Programming.
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Webdev Projects 
